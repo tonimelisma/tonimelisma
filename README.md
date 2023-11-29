@@ -7,6 +7,6 @@ Pleasure to meet you.
 - I used to do a lot of Perl but it's cool I don't do that anymore
 - Besides programming, I love product management, strategy and architecture stuff
 - How to reach me:
-  - Email: toni.melisma@iki.fi
+  - Email: toni@melisma.net
   - Twitter: https://twitter.com/tonimelisma/
   - LinkedIn: https://www.linkedin.com/in/tonimelisma/
