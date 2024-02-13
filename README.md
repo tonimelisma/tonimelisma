@@ -3,9 +3,9 @@
 Pleasure to meet you.
 
 - I’m currently working for Salesforce (but I've got another Github account for work stuff)
+- My background is in product management, consulting and architecture
 - I like Go, Python and Javascript
-- I used to do a lot of Perl but it's cool I don't do that anymore
-- Besides programming, I love product management, strategy and architecture stuff
+- I live in San Francisco which I think is the loveliest city in the world
 - How to reach me:
   - Email: toni@melisma.net
   - Twitter: https://twitter.com/tonimelisma/
