@@ -1,11 +1,8 @@
 ### Hey friend! 👋
 
-Pleasure to meet you.
-
-- I’m currently working for Salesforce (but I've got another Github account for work stuff)
-- My background is in product management, management consulting, sales and other customer-facing roles
-- You can mainly find some POCs and notebooks here, in Python, Golang, JS, SQL etc
-- I live in San Francisco but I'm originally from Helsinki
+- I lead AI and Voice Product for Mobile at Salesforce
+- You can find several popular side projects here
+- I live in San Francisco
 - How to reach me:
   - Email: toni@melisma.net
   - Twitter: https://twitter.com/tonimelisma/
